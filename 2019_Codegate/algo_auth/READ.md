@@ -1,3 +1,4 @@
+~~~
 ugongjae@ubuntu:~/CTF/codegate$ nc 110.10.147.109 15712
 ==> Hi, I like an algorithm. So, i make a new authentication system.
 ==> It has a total of 100 stages.
@@ -40,7 +41,7 @@ Answer within 10 seconds >>> 82
 
 Answer within 10 seconds >>>
 
-===========================================================================================
+~~~
 
 After you solve 100 problems, you can get 100 integer answers.
 

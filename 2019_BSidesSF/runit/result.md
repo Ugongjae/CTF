@@ -1,3 +1,4 @@
+~~~
 ugongjae@ubuntu:~/CTF/BSidesSF/runit$ python payload.py 
 [+] Opening connection to runit-5094b2cb.challenges.bsidessf.net on port 5252: Done
 [*] Switching to interactive mode
@@ -9,3 +10,4 @@ $
 $ 
 [*] Closed connection to runit-5094b2cb.challenges.bsidessf.net port 5252
 [*] Got EOF while sending in interactive
+~~~

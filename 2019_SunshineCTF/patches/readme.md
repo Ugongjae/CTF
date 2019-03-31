@@ -59,3 +59,4 @@ Dump of assembler code for function main:
    0x000005c5 <+168>:	ret    
 End of assembler dump.
 ```
+if you ignore first jump(0x00000544), you can see right flag.
